@@ -26,7 +26,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/rendrez/responsive-product-preview-card/tree/main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Pages](https://rendrez.github.io/responsive-product-preview-card/)
 
 ## My process
 
