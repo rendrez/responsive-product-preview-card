@@ -76,6 +76,7 @@ I'm learning about how to hidden your desire object like photo using tailwind wi
 ### Continued development
 
 Responsive when mobile wiidth > 375px
+Add hovering state (same with active) 
 
 ### Useful resources
 
