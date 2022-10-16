@@ -33,7 +33,7 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Vite](https://vitejs.dev/) - React framework
+- [Vite](https://vitejs.dev/) - Development environment
 - [Tailwind](https://tailwindcss.com/) - For styles
 
 ### What I learned
@@ -74,6 +74,9 @@ I'm learning about how to hidden your desire object like photo using tailwind wi
 ```
 
 ### Continued development
+
+Responsive when mobile wiidth > 375px
+Add hovering state (same with active) 
 
 ### Useful resources
 
