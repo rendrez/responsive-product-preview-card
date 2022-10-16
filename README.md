@@ -75,6 +75,8 @@ I'm learning about how to hidden your desire object like photo using tailwind wi
 
 ### Continued development
 
+Responsive when mobile wiidth > 375px
+
 ### Useful resources
 
 - [Stackoverflow](https://stackoverflow.com/) - This helped me for hidding picture when on mobile version.
