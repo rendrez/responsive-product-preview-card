@@ -33,7 +33,7 @@ Users should be able to:
 ### Built with
 
 - [React](https://reactjs.org/) - JS library
-- [Vite](https://vitejs.dev/) - React framework
+- [Vite](https://vitejs.dev/) - Development environment
 - [Tailwind](https://tailwindcss.com/) - For styles
 
 ### What I learned
