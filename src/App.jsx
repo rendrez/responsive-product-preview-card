@@ -5,7 +5,7 @@ import Card from "./component/Card";
 
 function App() {
   return (
-    <div className="bg-cream h-screen flex items-center justify-center">
+    <div className="bg-cream h-screen flex flex-col items-center justify-center">
       <Card>
         <Card.Image imgDesktop={productDesktop} imgMobile={productMobile} />
         <div className="flex flex-col mx-5 mobile:mr-5 my-3 gap-3">
@@ -22,6 +22,21 @@ function App() {
           <Card.Button icon={cart} text={"Add to Cart"} />
         </div>
       </Card>
+      <div class="text-[11px] text-center">
+        Challenge by {""}
+        <a
+          href="https://www.frontendmentor.io?ref=challenge"
+          target="_blank"
+          className="text-link"
+        >
+          Frontend Mentor
+        </a>
+        . Coded by{" "}
+        <a href="#" className="text-link">
+          Muhammad Randy
+        </a>
+        .
+      </div>
     </div>
   );
 }

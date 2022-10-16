@@ -9,6 +9,7 @@ module.exports = {
         darkCyan: "hsl(158, 36%, 37%)",
         veryDarkCyan: "hsl(158, 36%, 25%)",
         veryDarkBlue: "hsl(212, 21%, 14%)",
+        link: "hsl(228, 45%, 44%)",
       },
       fontFamily: {
         fraunces: ['"Fraunces"', "serif"],

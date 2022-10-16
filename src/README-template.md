@@ -13,9 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -28,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/rendrez/responsive-product-preview-card/tree/main)
+- Live Site URL: [Github Pages](https://rendrez.github.io/responsive-product-preview-card/)
 
 ## My process
 
@@ -85,8 +82,5 @@ I'm learning about how to hidden your desire object like photo using tailwind wi
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
+- Github - [Muhammad Randy](https://github.com/rendrez)
+- Frontend Mentor - [@rendrez](https://www.frontendmentor.io/profile/rendrez)
