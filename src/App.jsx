@@ -8,8 +8,8 @@ function App() {
     <div className="bg-cream h-screen flex flex-col items-center justify-center">
       <Card>
         <Card.Image imgDesktop={productDesktop} imgMobile={productMobile} />
-        <div className="flex flex-col mx-5 mobile:mr-5 my-3 gap-3">
-          <Card.Category category={"Parfume"} />
+        <Card.Body>
+          <Card.Category category={"P e r f u m e"} />
           <Card.Name name={"Gabrielle Essence Eau De Parfum"} />
           <Card.Description>
             A floral, solar and voluptuous interpretation composed by Olivier
@@ -20,9 +20,9 @@ function App() {
             priceBeforeDiscount={"$169.99"}
           />
           <Card.Button icon={cart} text={"Add to Cart"} />
-        </div>
+        </Card.Body>
       </Card>
-      <div class="text-[11px] text-center">
+      <div className="text-[11px] text-center">
         Challenge by {""}
         <a
           href="https://www.frontendmentor.io?ref=challenge"
